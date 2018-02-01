@@ -1,4 +1,6 @@
 # SERVER CODE:
+
+
 /* Java project done by Susmitha Mohan, Priyanka Jagadesh Kumar, Vaishali Pachisiya
  * This is Java Project that allows Multiple Clients to access a single Server
  * This Server Class allows Multiple clients to request for Mathematical operations
@@ -19,7 +21,8 @@ import java.util.concurrent.Executors;
  */
 public class Server {
 
-    public static int a = 0;//Creating Static variable
+    public static int a = 0;
+    //Creating Static variable
 
 	/**
      * @param args the command line arguments
