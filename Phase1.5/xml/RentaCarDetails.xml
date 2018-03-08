@@ -1,0 +1,18 @@
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<RentalCarDetails>
+  <RentalCar RentalCarID="1001">
+    <ModelName>Toyota Camry</ModelName>
+    <Color>Black</Color>
+    <Year>2017</Year>
+    <RatePerDay>100</RatePerDay>
+    <Availability>Yes</Availability>
+  </RentalCar>
+
+  <RentalCar RentalCarID="1002">
+    <ModelName>Nissan Altima</ModelName>
+    <Color>Black</Color>
+    <Year>2009</Year>
+    <RatePerDay>80</RatePerDay>
+    <Availability>Yes</Availability>
+  </RentalCar>
+</RentalCarDetails>

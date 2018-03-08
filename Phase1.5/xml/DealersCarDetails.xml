@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DealersCarDetails>
+  <DealersCar RentalCarID="2001">
+    <ModelName>Mustang</ModelName>
+    <Color>Blue</Color>
+    <Year>2016</Year>
+    <Price>12000</Price>
+  </DealersCar>
+  
+  <DealersCar RentalCarID="2002">
+    <ModelName>Range Rover</ModelName>
+    <Color>White</Color>
+    <Year>2014</Year>
+    <Price>10000</Price>
+  </DealersCar>
+</DealersCarDetails>
