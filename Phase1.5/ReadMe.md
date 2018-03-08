@@ -10,8 +10,8 @@
 
 [PartsDetails](xml/PartsDetails.xml)
 
-[OrderDetails](xml/Phase01_Group08.docx)
+[OrderDetails](xml/OrderDetails.xml)
 
-[TransactionDetails](xml/Phase01_Group08.docx)
+[TransactionDetails](xml/TransactionDetails.xml)
 ### Parsers
 [ParsersZipFile](parser/Project.zip)
