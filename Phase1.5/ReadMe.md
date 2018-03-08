@@ -2,13 +2,13 @@
 # PROJECT ASSIGNMENT
 ## Phase1.5
 ### XML docs
-[CustomerDetails](xml/Phase01_Group08.docx)
+[CustomerDetails](xml/CustomerDetails.xml)
 
 [RentalCarDetails](xml/RentaCarDetails.xml)
 
 [DealersCarDetails](xml/DealersCarDetails.xml)
 
-[PartsDetails](xml/Phase01_Group08.docx)
+[PartsDetails](xml/PartsDetails.xml)
 
 [OrderDetails](xml/Phase01_Group08.docx)
 
