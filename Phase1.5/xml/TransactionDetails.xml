@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TransactionDetails>
+  <Transaction TransactionID="9001">
+    <OrderID>2001</OrderID>
+    <CustomerName>Vaishali</CustomerName>
+    <CustomerID>100</CustomerID>
+    <TotalAmount>12000</TotalAmount>
+
+  </Transaction>
+
+
+  <Transaction TransactionID="9002">
+    <OrderID>2002</OrderID>
+    <CustomerName>Sushmitha</CustomerName>
+    <CustomerID>101</CustomerID>
+    <TotalAmount>10000</TotalAmount>
+  </Transaction>
+
+</TransactionDetails>

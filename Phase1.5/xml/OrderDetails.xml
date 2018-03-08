@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OrderDetails>
+	<Order OrderID="5001">
+		<DealersOrderID>2001</DealersOrderID>
+		<RentalOrderID>0</RentalOrderID>
+		<PartOrderID>0</PartOrderID>
+		<CustomerID>100</CustomerID>
+		<Price>12000</Price>
+	</Order>
+
+
+	<Order OrderID="5002">
+		<DealersOrderID>2002</DealersOrderID>
+		<RentalOrderID>0</RentalOrderID>
+		<PartOrderID>0</PartOrderID>
+		<CustomerID>101</CustomerID>
+		<Price>10000</Price>
+	</Order>
+</OrderDetails>
