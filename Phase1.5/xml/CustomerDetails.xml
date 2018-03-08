@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomerDetails>
+<Customer CustomerID="100">
+	<CustomerName>Vaishali</CustomerName>
+	<Password>vaishali</Password>
+	<EmailID>vaishu@gmail.com</EmailID>
+  <Contact>3121234567</Contact>
+	<StAdd>62 W 35th St</StAdd>
+	<City> Chicago </City>
+	<State> Illinois </State>
+	<Zip> 60616 </Zip>
+	<Country>United States</Country>
+</Customer>
+
+<Customer CustomerID ="101">
+	<CustomerName>Sushmitha</CustomerName>
+	<Password>Sush</Password>
+	<EmailID>sush@gmail.com</EmailID>
+	<Contact>3122345345</Contact>
+  <StAdd>64 E 31th St</StAdd>
+	<City> Chicago </City>
+	<State> Illinois </State>
+	<Zip> 60616 </Zip>
+	<Country>United States</Country>
+</Customer>
+</CustomerDetails>

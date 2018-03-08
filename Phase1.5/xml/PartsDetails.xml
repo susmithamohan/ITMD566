@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PartsDetails>
+	<Parts PartID="4000">
+		<PartName>Tire</PartName>
+		<Quantity>500</Quantity>
+		<Cost>67</Cost>
+	</Parts>
+
+	<Parts PartID="4000">
+		<PartName>Steering Wheel</PartName>
+		<Quantity>200</Quantity>
+		<Cost>90</Cost>
+	</Parts>
+</PartsDetails>
