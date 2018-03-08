@@ -4,9 +4,9 @@
 ### XML docs
 [CustomerDetails](xml/Phase01_Group08.docx)
 
-[RentalCarDetails](xml/Phase01_Group08.docx)
+[RentalCarDetails](xml/RentalCarDetails.xml)
 
-[DealersCarDetails](xml/Phase01_Group08.docx)
+[DealersCarDetails](xml/DealersCarDetails.xml)
 
 [PartsDetails](xml/Phase01_Group08.docx)
 
