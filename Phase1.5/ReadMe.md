@@ -14,14 +14,4 @@
 
 [TransactionDetails](xml/Phase01_Group08.docx)
 ### Parsers
-[CustomerDetailsParser](parser/Phase01_Group08.docx)
-
-[RentalCarDetailsParser](parser/Phase01_Group08.docx)
-
-[DealersCarDetailsParser](parser/Phase01_Group08.docx)
-
-[PartsDetailsParser](parser/Phase01_Group08.docx)
-
-[OrderDetailsParser](parser/Phase01_Group08.docx)
-
-[TransactionDetailsParser](parser/Phase01_Group08.docx)
+[ParsersZipFile](parser/Phase01_Group08.docx)
